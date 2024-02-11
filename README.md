@@ -1,1 +1,1 @@
-# this is landing page of amazon website 
+# This is landing page of amazon website 
